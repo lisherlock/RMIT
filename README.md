@@ -4,7 +4,7 @@
 
 如使用RIAS进行科学研究请引用文献：《Development and assessment of an individualized nomogram to predict colorectal cancer liver metastases》
 
-软件官网主页（附文字功能介绍）：https://pewter-papyrus-421.notion.site/RIAS-916ad7256e1e472985d4b11c8ebf0fe0?pvs=4
+软件官网主页（附文字功能介绍）：https://www.notion.so/riasml/RIAS-916ad7256e1e472985d4b11c8ebf0fe0
 
 软件使用视频教程：https://www.bilibili.com/video/BV1QR4y1s7Ki/?spm_id_from=333.999.0.0&vd_source=0e1d3e5acd2496d3d5efc48817003147
 
